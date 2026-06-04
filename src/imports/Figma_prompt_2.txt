@@ -1,0 +1,41 @@
+
+🖼️ GLOBAL / SITE-WIDE
+
+Replace all existing images of Tio choose from the updated images 1.png to 9.png
+Remove all red bird emojis/images across every page and section
+
+
+🏠 HOME PAGE
+
+Fix the spacing in the logo/header — remove the space between "T" and "Bud" so it reads as T-Bud (no gap)
+Remove the bird icon/image beside "Meet Tio"
+
+
+🛠️ SERVICES PAGE
+
+Remove all current photos/images in the Services section
+Replace with pixel art / graphic-style illustrations relevant to each service offered
+
+
+💼 PORTFOLIO PAGE
+
+Rename "Christian Jay Del Rosario" → Christian Del Rosario
+Update the Full Stack Skills list — remove the current generic skills and replace them with skills that directly relate to the services T-Bud offers (align each skill entry to a matching service category shown on the Services page)
+
+
+ℹ️ ABOUT PAGE
+Why T-Bud? — The Evolution Timeline
+Update the milestone years/dates to reflect the actual timeline:
+DateMilestoneJanuary 18, 2026💡 IdeaFebruary 28, 2026🔨 BuildApril 6, 2026🚀 LaunchedJune 5, 2026🌱 Growing
+
+📞 CONTACT PAGE
+
+Update the sample phone number placeholder → +63 Philippines
+Replace all contact details with the following:
+
+FieldUpdated Info 
+Email: klc.techmate@gmail.com
+Phone: +63 987-654-3210
+Location: Philippines
+
+

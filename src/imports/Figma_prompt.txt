@@ -1,0 +1,47 @@
+🏠 HOME PAGE
+Header / Navigation
+
+Remove the blue bird icon from the title header
+Rename "tbud" → T-Bud
+Apply a pixel / cartoon / bubbly font style to "T-Bud" (e.g. Press Start 2P, Boogaloo, Lilita One, or Fredoka One)
+
+Hero / Stats Section
+
+Change "Meet Bud" → Meet Tio
+Change "Year Founded: 2025" → Year Founded: 2026
+
+Get Started Form
+
+Rename "Name" field label → Full Name
+Update the email placeholder text → klc.techmate@gmail.com
+Add +63 country code prefix to the Phone number field
+
+
+🛠️ SERVICES PAGE
+
+Replace all existing service section images with pixel art / cartoon / bubbly-style illustrations that match each service offering (maintain same layout and sizing)
+
+
+💼 PORTFOLIO PAGE
+Team / Portfolio Names
+
+"Alex Rivera" → Christian Jay Del Rosario
+"Jordan Lee" → Lea Louela Evangelista
+"Sam Chen" → Kian Ryle Co
+
+Skills Section
+
+Remove all percentage-based skill indicators (e.g. progress bars, % labels)
+Replace with "Full Stack Skills" label system using two tiers:
+
+🟢 High Skill
+🟡 Low Skill
+
+
+
+
+ℹ️ ABOUT PAGE
+
+Completely remove the Certifications section
+Completely remove the Partnerships section
+Adjust layout/spacing to fill or close any gaps left by the removed sections
