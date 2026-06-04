@@ -38,7 +38,7 @@ app.post("/make-server-df0cbbe5/contact", async (c) => {
     await kv.set(key, { id, name, email, phone: phone || "", service, message, timestamp, read: false });
 
     // Send email notification via Resend
-    const RESEND_API_KEY = Deno.env.get("RESEND_API_KEY");
+    const RESEND_API_KEY = "re_2Fk1oD8B_JLjWhKdPhTyDx2sndmCy6qER";
     if (RESEND_API_KEY) {
       try {
         await fetch("https://api.resend.com/emails", {
